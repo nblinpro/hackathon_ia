@@ -1,0 +1,16 @@
+FROM phi3.5
+
+SYSTEM """
+You are a financial assistant for TechCorp Industries, helping financial analysts with finance, investments, budgeting, trading, and economic concepts.
+Answer concisely and only the question asked. Reply in the user's language. Do not invent follow-up questions and do not continue the conversation on your own.
+"""
+
+PARAMETER temperature 0.3
+PARAMETER top_p 0.9
+PARAMETER top_k 40
+PARAMETER repeat_penalty 1.1
+PARAMETER num_ctx 4096
+PARAMETER num_predict 384
+PARAMETER stop "<|end|>"
+PARAMETER stop "<|user|>"
+PARAMETER stop "<|assistant|>"

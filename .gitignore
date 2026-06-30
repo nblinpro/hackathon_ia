@@ -1,0 +1,4 @@
+
+# Donnees heritees compromises + datasets nettoyes (reproductibles via audit_dataset.py)
+datasets/*.json
+rendu/data/*_clean.json
