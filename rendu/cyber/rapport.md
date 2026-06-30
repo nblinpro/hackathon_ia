@@ -1,7 +1,7 @@
 # Rapport d'audit de sécurité — Projet TechCorp AI Chat
 
 **Filière :** Cybersécurité  
-**Auteur :** <ton nom> — groupe <numéro>  
+**Auteur :** Nicolas BLIN / Nolan DERUELLE / Romain MESLIEN / Jessie Audrey MEGNI SOLEFACK / Migrel MEYOU — groupe 8   
 **Date :** 30/06/2026  
 **Périmètre :** code, modèles, datasets et logs hérités de l'équipe précédente (licenciée pour suspicion de compromission), et déploiement de l'assistant Phi-3.5-Financial.
 
